@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Chen
+    given-names: Xian
+    orcid: https://orcid.org/0009-0008-9603-2715
+title: "Security Analysis on Device-Independent Quantum Key Distribution Protocols with Routed Bell Tests"
+version: 1.0
+date-released: 2026-02-05
