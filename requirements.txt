@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+sympy
+chaospy
+ncpol2sdpa
+qiskit
+qiskit-aer
+mosek

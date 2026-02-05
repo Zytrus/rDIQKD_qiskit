@@ -1,0 +1,18 @@
+{
+  "aer": [
+    {
+      "flags": {
+        "decrease_v": true,
+        "increase_p_long": false 
+      },
+      "numeral_settings": {
+        "N_rounds": 500,
+        "n_shots": 1500,
+        "hoeffding_confidence": 0.9,
+        "init_v": 1,
+        "init_LP_noise": 0,
+        "decline": 0.01
+      }
+    }
+  ]
+}
