@@ -7,3 +7,4 @@ authors:
 title: "Security Analysis on Device-Independent Quantum Key Distribution Protocols with Routed Bell Tests"
 version: 1.0
 date-released: 2026-02-05
+url: "https://github.com/Zytrus/rDIQKD_qiskit/"
